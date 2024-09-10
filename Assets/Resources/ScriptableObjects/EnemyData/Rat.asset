@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e199859bcb21f4fadc75af6f64f24f, type: 3}
+  m_Name: Rat
+  m_EditorClassIdentifier: 
+  actorPrefab: {fileID: 325195574453944752, guid: b35fb3eef73fc5744aaabefc842183f1, type: 3}
+  stats:
+    hp: 120
+    maxhp: 120
+    mp: 0
+    maxmp: 0
+    str: 7
+    arm: 3
+    spd: 4
+  battlePortrait: {fileID: 233060590927527406, guid: 8662e0fbf3cd8744ead4104bd263519d, type: 3}

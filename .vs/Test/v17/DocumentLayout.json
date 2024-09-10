@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|d:\\unityproject\\test\\assets\\scripts\\scriptableobjects\\equipment\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\equipment\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|d:\\unityproject\\test\\assets\\scripts\\scriptableobjects\\enemypack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\enemypack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MenuSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\PartyMemberInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|D:\\UnityProject\\test\\assets\\scripts\\core\\managers\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|solutionrelative:assets\\scripts\\core\\managers\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|D:\\UnityProject\\test\\assets\\scripts\\core\\managers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|solutionrelative:assets\\scripts\\core\\managers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|D:\\UnityProject\\test\\assets\\scripts\\core\\character\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C87086-D17C-6031-B014-AEB4CEA94B0E}|Scripts.csproj|solutionrelative:assets\\scripts\\core\\character\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Accessory.cs",
+              "DocumentMoniker": "D:\\UnityProject\\test\\Assets\\Scripts\\ScriptableObjects\\Equipment\\Accessory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\Equipment\\Accessory.cs",
+              "ToolTip": "D:\\UnityProject\\test\\Assets\\Scripts\\ScriptableObjects\\Equipment\\Accessory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\Equipment\\Accessory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyPack.cs",
+              "DocumentMoniker": "D:\\UnityProject\\test\\Assets\\Scripts\\ScriptableObjects\\EnemyPack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\EnemyPack.cs",
+              "ToolTip": "D:\\UnityProject\\test\\Assets\\Scripts\\ScriptableObjects\\EnemyPack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\EnemyPack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MainWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MainWindow.cs",
+              "ToolTip": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MainWindow.cs",
+              "RelativeToolTip": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MainWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:00.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartyMemberInfo.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\PartyMemberInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\PartyMemberInfo.cs",
+              "ToolTip": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\PartyMemberInfo.cs",
+              "RelativeToolTip": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\PartyMemberInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:00.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\Menu.cs",
+              "ToolTip": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\Menu.cs",
+              "RelativeToolTip": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\Menu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuSelector.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MenuSelector.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MenuSelector.cs",
+              "ToolTip": "D:\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MenuSelector.cs",
+              "RelativeToolTip": "..\\..\\Unity Project\\Test\\Assets\\Scripts\\Core\\UI\\MenuSelector.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:40:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Managers\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Managers\\StateManager.cs",
+              "ToolTip": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Managers\\StateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Managers\\StateManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwBsAAABHAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-08T06:40:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Managers\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Managers\\MenuManager.cs",
+              "ToolTip": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Managers\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Managers\\MenuManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-08T06:40:00.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Character\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Character\\InputHandler.cs",
+              "ToolTip": "D:\\UnityProject\\test\\Assets\\Scripts\\Core\\Character\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Character\\InputHandler.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAADwv30AAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-08T06:40:00.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
